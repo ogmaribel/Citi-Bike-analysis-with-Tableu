@@ -11,26 +11,31 @@ File link: https://public.tableau.com/profile/maribel.ojeda#!/vizhome/Citi-BikeT
 
 ![Dashboard](images/Dash1.png)
 
+## Dashboard 2
 * What are the peak hours in which bikes are used during summer months?
 * What are the peak hours in which bikes are used during winter months?
 
 ![Dashboard](images/Dash2.png)
 
+## Dashboard 3
 * How effective has gender outreach been in increasing female ridership over the timespan?
 * How does the average trip duration change by age?
 * What is the average distance in miles that a bike is ridden?
 
 ![Dashboard](images/Dash3.png)
 
+## Dashboard 4
 * How has the proportion of short-term customers and annual subscribers changed?
 
 ![Dashboard](images/Dash4.png)
 
+## Dashboard 5
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 * How variable is the utilization by bike ID?
 
 ![Dashboard](images/Dash5.png)
 
+## Dashboard 6
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 * If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
 
