@@ -16,11 +16,19 @@ File link: https://public.tableau.com/profile/maribel.ojeda#!/vizhome/Citi-BikeT
 * How many trips have been recorded total during the chosen period?
 * By what percentage has total ridership grown?
 
+**Observations:
+* The number of users have been increasing overtime.
+* There is a seasonality and in all the years August is always the month with the highest number of trips
+
 ![Dashboard](images/Dash1.png)
 
 ## Dashboard 2
 * What are the peak hours in which bikes are used during summer months?
 * What are the peak hours in which bikes are used during winter months?
+
+**Observations:
+* 8 am and 6pm are the peak hours in summer and winter
+*There are more trips in summer than in winter 
 
 ![Dashboard](images/Dash2.png)
 
