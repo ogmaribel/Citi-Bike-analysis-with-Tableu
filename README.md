@@ -5,6 +5,8 @@ The distance was added to the data using the formula found in the citibike page 
 
 The zipcode was added using the library 'uszipcode'.
 
+The age was calculated substracting the year selected - the birth year.
+
 The following link contains the Tableu file with the details of this project. The plots are summarized in several dashboards that are described below.
 File link: https://public.tableau.com/profile/maribel.ojeda#!/vizhome/Citi-BikeTableuDashboards/Summer_hrs?publish=yes
 
