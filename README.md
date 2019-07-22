@@ -6,29 +6,36 @@ File link: https://public.tableau.com/profile/maribel.ojeda#!/vizhome/Citi-BikeT
 # Summary
 
 ## Dashboard 1
-![Dashboard](images/Dash1.png)
 * How many trips have been recorded total during the chosen period?
 * By what percentage has total ridership grown?
 
-![Dashboard](images/Dash2.png)
+![Dashboard](images/Dash1.png)
+
 * What are the peak hours in which bikes are used during summer months?
 * What are the peak hours in which bikes are used during winter months?
 
-![Dashboard](images/Dash3.png)
+![Dashboard](images/Dash2.png)
+
 * How effective has gender outreach been in increasing female ridership over the timespan?
 * How does the average trip duration change by age?
 * What is the average distance in miles that a bike is ridden?
 
-![Dashboard](images/Dash4.png)
+![Dashboard](images/Dash3.png)
+
 * How has the proportion of short-term customers and annual subscribers changed?
 
-![Dashboard](images/Dash5.png)
+![Dashboard](images/Dash4.png)
+
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 * How variable is the utilization by bike ID?
 
-![Dashboard](images/Dash6.png)
+![Dashboard](images/Dash5.png)
+
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 * If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
+
+![Dashboard](images/Dash6.png)
+
 
 # Missing Questions
 Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
