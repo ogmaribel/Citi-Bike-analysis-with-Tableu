@@ -5,6 +5,8 @@ File link: https://public.tableau.com/profile/maribel.ojeda#!/vizhome/Citi-BikeT
 # Summary
 
 ## Dashboard 1
+![Dashboard](images/Dash1.png)
+
 How many trips have been recorded total during the chosen period?
 By what percentage has total ridership grown?
 
